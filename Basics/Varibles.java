@@ -1,5 +1,6 @@
-package Basics;
-public class Basic_variables {
+// package Basics;
+
+public class Varibles {
     public static void main(String[] args) {
         int x = 10; // Declare and initialize variable x
         System.out.println("The value of x is: " + x);
