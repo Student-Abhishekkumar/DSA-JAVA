@@ -1,3 +1,4 @@
+package Basics;
 public class Basic_variables {
     public static void main(String[] args) {
         int x = 10; // Declare and initialize variable x
