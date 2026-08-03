@@ -1,4 +1,4 @@
-package Basic_Math;
+// package Basic_Math;
 
 public class optimal_digitcounter {
     public static int counter(int n){

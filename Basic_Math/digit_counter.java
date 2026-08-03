@@ -1,4 +1,4 @@
-package Basic_Math;
+// package Basic_Math;
 // import java.util.*;
 
 public class digit_counter {
