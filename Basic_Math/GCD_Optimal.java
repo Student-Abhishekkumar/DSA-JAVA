@@ -13,6 +13,6 @@ public class GCD_Optimal {
         int n1 = 4;
         int n2 = 26;
         int result = gcommon_factor(n1, n2);
-        System.out.print("GCD = "+result);
+        System.out.print("GCD = "+ result);
     }
 }
